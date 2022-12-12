@@ -1,0 +1,89 @@
+/*categorias*/
+.categorias {
+    margin-top: 1.5rem;
+}
+
+.categorias__titulo {
+    margin-bottom: 1rem;
+}
+
+.categorias__lista {
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: .5rem;
+}
+
+.categorias__item {
+    padding: 1.5rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    user-select: none;
+    transition: 0.5s;
+    opacity: 1;
+    min-width: 282px;
+}
+
+.categorias__item:hover {
+    opacity: 0.7;
+}
+
+.categorias__lista .categorias__item:nth-child(1),
+.categorias__item:nth-child(5) {
+    background-color: var(--amarelo);
+}
+
+.categorias__lista .categorias__item:nth-child(2),
+.categorias__item:nth-child(6) {
+    background-color: var(--laranja);
+}
+
+.categorias__lista .categorias__item:nth-child(3),
+.categorias__item:nth-child(7) {
+    background-color: var(--lilas);
+}
+
+.categorias__lista .categorias__item:nth-child(4),
+.categorias__item:nth-child(8) {
+    background-color: var(--verde);
+}
+
+.destaques {
+    padding: 30px 0 10px;
+    white-space: nowrap;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+    align-items: center;
+}
+
+.destaques__titulo {
+    margin: 1rem 0;
+}
+
+.destaques__barra {
+    width: 131px;
+    height: 2px;
+    background-color: black;
+    flex-grow: 1;
+}
+
+.categorias__destaques img:last-of-type {
+    padding-left: 10px;
+}
+
+.categorias__imagem {
+    margin-bottom: 1.5rem;
+    background-image: url("../img/destaques-360.png");
+    background-repeat: no-repeat;
+    height: 271px;
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.categorias__imagem:hover {
+    opacity: 0.7;
+}
