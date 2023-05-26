@@ -16,7 +16,7 @@
 
 <section id="sobre">
     <h2 style="font-size: 1.25rem;">Sobre</h2>
-    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/praticando-css-grid-flexbox">HTML e CSS: praticando HTML/CSS</a> com <b>auxílio</b> da instrutora <b>Mônica Mazzochi Hillman</b> e <b>Luan Alves</b>.</p>
+    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/praticando-css-grid-flexbox">Praticando CSS: Grid e Flexbox</a> com <b>auxílio</b> da instrutora <b>Beatriz Moura</b> e <b>Luan Alves</b>.</p>
     <p style="text-align: justify;">É um site sobre vendas de curso.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
     <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://culturama.ebarbozadev.vercel.app/">aqui</a>.</p>
