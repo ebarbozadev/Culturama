@@ -28,7 +28,7 @@
       <li>Saber quando utilizar display <code>grid</code> e <code>flex</code>;</li>
       <li>Entender as direções de um eixo com o <code>flexbox</code>;</li>
       <li>Desenhar um display com a área do <code>grid</code>;</li>
-      <li>Administrar alinhamento e espaçamento com <code>grid</code> e <code>flex</code>;</li>
+      <li>Administrar alinhamento e espaçamento com <code>grid</code> e <code>flex</code>.</li>
     </ul>
 </section>
 
